@@ -1,2 +1,4 @@
 *.class
 *.log
+src/main/resources/application.properties
+target/
